@@ -86,8 +86,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [AudioNodes](https://audionodes.com) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 - [SoundCycle](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
-- [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.without uploading audio
-- [MP3 to MIDI Tool](https://mp3tomiditool.com/) - A browser-based converter that detects clear monophonic melodies and exports MIDI without loading audio.
+- [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.
 - [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.
 - [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 - [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
@@ -107,6 +106,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
+
+- [MP3 to MIDI Tool](https://mp3tomiditool.com/) - A browser-based converter that detects clear monophonic melodies and exports MIDI without uploading audio.
 
 ## Resources
 
